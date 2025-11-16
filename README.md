@@ -26,4 +26,4 @@ Thanks to the generality of the code, users can choose many different versions o
 
 ## License
 
-[GPLv3](LICENSE.md)
+[GPLv3](LICENSE)
